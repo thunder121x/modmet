@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "628969021099",
+    "project_id": "strange-wharf-368315",
+    "storage_bucket": "strange-wharf-368315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628969021099:android:7f8509a38b0336c76ca1ee",
+        "android_client_info": {
+          "package_name": "com.example.modmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628969021099-8c4p8lk13l9flpfo4kg24dagcse78jlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EHCNyCAsTa-3tZzcSOqFNGmbjjEgG2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628969021099-8c4p8lk13l9flpfo4kg24dagcse78jlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628969021099-ugef1ff1udsd1n0fbepdlvoghqgalfgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modmet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
